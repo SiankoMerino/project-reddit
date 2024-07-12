@@ -19,7 +19,7 @@ Este proyecto es una aplicación web que emula una red social similar a Reddit. 
 ## Instalación
 
 1. **Clonar el repositorio**
-   git clone https://github.com/tu-usuario/reddit-clone.git
+   git clone https://github.com/SiankoMerino/project-reddit.git
    cd reddit-clone
 
 ### Customize configuration
